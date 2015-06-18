@@ -1,0 +1,167 @@
+/* FONTS */
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Dosis', sans-serif;
+	font-weight: 200;
+	line-height: 1em;
+	margin: 0;
+}
+
+h1 {
+	font-size: 6em;
+}
+
+h2, h3 {
+	color: #79e5d2;
+}
+
+h2 {
+	font-size: 2em;
+	padding: 5px;
+	background: #666;
+	display: inline-block; 
+}
+
+h3 {
+	font-size: 1.5em;
+	margin-bottom: 20px;
+	letter-spacing: 1px;
+}
+
+.p-white {
+	color: white;
+}
+
+
+
+
+
+/* NAVIGATION */
+
+.b-nav {
+	background-color: #79e5d2;
+}
+
+.navbar-brand {
+	height: 90px;
+	padding-left: 30px;
+}
+
+.navbar {
+	margin-bottom: 0px;
+}
+
+.navbar-nav {
+	margin-top: 20px;
+}
+
+.navbar-toggle {
+	background-color: white;
+}
+
+
+
+
+
+/* HERO */
+
+.hero-bg {
+	background: -webkit-linear-gradient(white, #d8d8d8); /* For Safari 5.1 to 6.0 */
+  	background: -o-linear-gradient(white, #d8d8d8); /* For Opera 11.1 to 12.0 */
+  	background: -moz-linear-gradient(white, #d8d8d8); /* For Firefox 3.6 to 15 */
+  	background: linear-gradient(white, #d8d8d8); /* Standard syntax */
+  	padding-top: 100px;
+}
+
+.complete {
+	width: 130%;
+	margin-top: 50px;
+	margin-left: -30px;
+}
+
+.btn {
+	text-transform: uppercase;
+}
+
+.btn-default {
+	background: #79e5d2;
+	text-shadow: none;
+	box-shadow: none;
+
+}
+
+
+
+
+/* INFO */
+
+.info-bg {
+	background-color: black;
+	padding: 100px 100px;
+}
+
+.info-img {
+	width: 100%;
+	margin-bottom: 30px;
+	border: 2px solid #79e5d2;
+}
+
+
+
+/* FRAME */
+
+.frame-bg {
+	padding: 100px 100px;
+}
+
+.frame-img {
+	width: 140%;
+	margin-left: -100px;
+}
+
+.row-margin {
+	margin-bottom: 70px;
+}
+
+
+/* SOCIAL */
+
+.full {
+	padding-right: 0;
+	padding-left: 0;
+}
+
+.soc-bg {
+	background-image: url(../img/rider.jpg);
+	height: 600px;
+	width: 100%;
+	background-position-x: 50%;
+}
+
+.social {
+	padding-top: 250px;
+}
+
+.soc-icon {
+	padding: 20px;
+}
+
+
+/* FOOTER */
+
+.footer-bg {
+	padding: 50px 50px 100px 50px;
+	background: #666;
+}
+
+.footer-addy {
+	margin-top: 20px;
+}
+
+
+
+
